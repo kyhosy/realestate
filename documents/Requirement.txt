@@ -11,4 +11,10 @@
 	Những yêu cầu khác như giao diện thì chưa cần đẹp. Sẽ bổ sung ở lần sau.
 2. Chú ý
 	Cần trang login, phân quyền 3 role admin, người dùng đăng bài và cò.
+3. Link follow:
+  https://batdongsan.com.vn/
+4. Scope:
+  a. Mua Bán nhà
+  b. Mua Thuê nhà, 
+  c. Mua bán đất.
 	
