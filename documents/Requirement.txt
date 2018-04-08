@@ -1,0 +1,14 @@
+1. Yêu cầu chung
+	mục tiêu của phase1 này chủ yếu là để quản lý được lấy được dữ liệu người dùng bán đất...
+	nhà, chung cư, thuê...Mình cứ tập trung vào nhà và đất trc
+
+	mục tiêu thứ 2 là phục vụ cho bên môi giới: đễ dàng liên hệ với bên mua bằng cách tạo ra một cách map dữ liệu dựa trên thông tin bên mua với bên bán.
+	vd danh sách phân khúc theo tiêu chí giá 1-2 tỉ thì 5 người mua map với 10 người bán chẳng hạn
+	sau khi map xong cố gắng cung cấp hỗ trợ để họ có thể gởi tin nhanh tới bên muốn mua một số dữ liệu được lọc nhanh gởi qua mail, mạng xã hội, sms tới người mua.
+	vd báo với bên mua: thưa anh chị hiện tại có 10 căn nhà tại gần vị trí đó, có những đặc điểm sau anh chị có thời gian có thể xem, có gì liên hệ với em ....xxx
+
+	Mục tiêu thứ 3 là có thể quản lý được việc người có nhu cầu mua đất. Thông thường họ sẽ lên web search tìm kiếm rồi liên lạc chứ ko thèm đăng kí trên web.Bởi vậy khi họ liên lạc phải có chỗ để mau chóng lưu thông tin người mua, sau này map lại theo mục tiêu 2.
+	Những yêu cầu khác như giao diện thì chưa cần đẹp. Sẽ bổ sung ở lần sau.
+2. Chú ý
+	Cần trang login, phân quyền 3 role admin, người dùng đăng bài và cò.
+	

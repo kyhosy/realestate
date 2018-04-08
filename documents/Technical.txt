@@ -1,0 +1,16 @@
+1. Mern Starter.
+	Link:
+		https://github.com/Hashnode/mern-starter
+		http://mern.io/
+	Init Project:
+		  npm install -g mern-cli
+		  mern init your_new_app
+		  cd your_new_app
+		  npm install
+		  npm start
+2. Structure
+	UI: Material Component
+		https://www.material-ui.com/
+	Architecture: Mern Stack
+	
+	
